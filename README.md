@@ -1,4 +1,4 @@
 # Leetcode
 leethub 
 
-challenging myself to leetcode 
+challenging myself to leetcode daily
